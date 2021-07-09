@@ -1,4 +1,29 @@
-# hello-world
-So let's say hi to the world
+# Exercício: Retorno de livros por categoria
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+### Recursos utilizados 
+- Javascript
+- Node JS
+- Npm
+- Lib Readline-sync
+
+### Regras 
+
+- Pergunta ao usuário se ele quer ver as categorias disponíveis
+
+[ ] Se ele responde SIM: mostra a lista de categorias disponíveis e solicita a escolha
+
+[ ] Se ele responde NÃO: retorna a lista completa de livros ordenada pelo número de páginas
+
+- Dados adicionais
+
+[ ] Não é permitido solicitar mais de uma categoria
+
+[ ] Uma das categorias é a opção para finalizar a execução do programa
+
+
+## Sandra Couto
+Me encontre nas redes sociais:
+
+- [Linkedin](https://www.linkedin.com/in/sandra-lm-couto/)
+- [Github](https://github.com/sandralcouto)
+- [Spotify](https://open.spotify.com/user/12159465123?si=e55c9fc4afdf4e23)
