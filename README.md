@@ -23,7 +23,7 @@ O objetivo é acessar uma pequena base de dados com informações de livros e cl
  Uma das categorias é a opção para finalizar a execução do programa
 
 
-## Sandra Couto
+### Sandra Couto
 Me encontre nas redes sociais:
 
 - [Linkedin](https://www.linkedin.com/in/sandra-lm-couto/)
